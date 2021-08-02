@@ -17,3 +17,8 @@ body {
 .portfolio-heading {
   border-bottom: .1px solid #4c5258;
 }
+
+.card span {
+  color : rgba(204, 12, 12, 0.774);
+  font-weight: 700;
+}
